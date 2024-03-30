@@ -40,7 +40,7 @@ modules:
         sha256: 756f7bf983e98e035655a66388a3409f02939c972d6bd024a5177a389cbde5c4
 
       - type: file
-        url: https://raw.githubusercontent.com/diamondburned/dissent/6fe1e4e05d95b7dacace3bd761aeede22c326ea5/so.libdb.dissent.metainfo.xml
-        sha256: d3981611e60e81f03c0b35f504675a17e44fb7fcb5903de6fbc42f6ad7d95695
+        url: https://raw.githubusercontent.com/diamondburned/dissent/cb06753665fb289aebab23a1b74e7aaf2c51f7a7/so.libdb.dissent.metainfo.xml
+        sha256: d8a0dbd2a6aa0723d5e9e6485b48684f06e5edbd64741ea27764cb986ba6c82b
 
       - go.mod.yml

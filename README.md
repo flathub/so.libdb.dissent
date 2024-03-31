@@ -21,9 +21,9 @@ flatpak-builder --install --user --force-clean repo/ so.libdb.dissent.yml
 
 ## How to update dependencies
 
-1. Use `flatpak-go-mod` with updated `modfile` dependency in the root of the Dissent repository:
+1. Use `flatpak-go-mod` in the root of the Dissent repository:
 ```sh
-go run github.com/tfuxu/flatpak-go-mod@update-deps .
+go run github.com/dennwc/flatpak-go-mod@latest .
 ```
 
 2. Copy `modules.txt` and `go.mod.yml` to the root of this package.

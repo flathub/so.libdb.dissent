@@ -1,6 +1,6 @@
 id: so.libdb.dissent
 runtime: org.gnome.Platform
-runtime-version: '45'
+runtime-version: '46'
 sdk: org.gnome.Sdk
 command: dissent
 
@@ -36,11 +36,11 @@ modules:
       - install -Dm644 $FLATPAK_ID.metainfo.xml /app/share/metainfo/$FLATPAK_ID.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.22.tar.gz
-        sha256: 756f7bf983e98e035655a66388a3409f02939c972d6bd024a5177a389cbde5c4
+        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.23.tar.gz
+        sha256: 7c5e10a6111cd8912c052337c56cb04cbb92b237453d560c85409f1c8f8cc01b
 
       - type: file
-        url: https://raw.githubusercontent.com/diamondburned/dissent/cb06753665fb289aebab23a1b74e7aaf2c51f7a7/so.libdb.dissent.metainfo.xml
-        sha256: d8a0dbd2a6aa0723d5e9e6485b48684f06e5edbd64741ea27764cb986ba6c82b
+        url: https://raw.githubusercontent.com/diamondburned/dissent/edc90049cc0500a3cbb61cf7f3fdb91fdbbcfb34/so.libdb.dissent.metainfo.xml
+        sha256: ddb9e99ef6fbdcbed790ae45b3a31ebcfd045454b4d05739f0149dbf68e1b781
 
       - go.mod.yml

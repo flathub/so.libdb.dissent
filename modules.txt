@@ -33,16 +33,16 @@ github.com/alecthomas/chroma/lexers/x
 github.com/alecthomas/chroma/lexers/y
 github.com/alecthomas/chroma/lexers/z
 github.com/alecthomas/chroma/styles
-# github.com/alessio/shellescape v1.4.1
+# github.com/alessio/shellescape v1.4.2
 ## explicit; go 1.14
 github.com/alessio/shellescape
-# github.com/danieljoos/wincred v1.1.0
-## explicit; go 1.13
+# github.com/danieljoos/wincred v1.2.1
+## explicit; go 1.18
 github.com/danieljoos/wincred
 # github.com/diamondburned/adaptive v0.0.2-0.20221227093656-fa139be203a8
 ## explicit; go 1.17
 github.com/diamondburned/adaptive
-# github.com/diamondburned/arikawa/v3 v3.3.5
+# github.com/diamondburned/arikawa/v3 v3.3.6-0.20240424061322-5aaffc368786
 ## explicit; go 1.16
 github.com/diamondburned/arikawa/v3/api
 github.com/diamondburned/arikawa/v3/api/rate
@@ -106,7 +106,7 @@ github.com/diamondburned/gotk4/pkg/graphene
 github.com/diamondburned/gotk4/pkg/gsk/v4
 github.com/diamondburned/gotk4/pkg/gtk/v4
 github.com/diamondburned/gotk4/pkg/pango
-# github.com/diamondburned/gotkit v0.0.0-20240214122856-34324269516c
+# github.com/diamondburned/gotkit v0.0.0-20240421051130-6094a5dcd206
 ## explicit; go 1.21.0
 github.com/diamondburned/gotkit/app
 github.com/diamondburned/gotkit/app/locale
@@ -128,7 +128,7 @@ github.com/diamondburned/gotkit/gtkutil/textutil
 github.com/diamondburned/gotkit/utils/cachegc
 github.com/diamondburned/gotkit/utils/config
 github.com/diamondburned/gotkit/utils/osutil
-# github.com/diamondburned/ningen/v3 v3.0.1-0.20240215053437-0d35ff052647
+# github.com/diamondburned/ningen/v3 v3.0.1-0.20240422114445-ddbaae4f3f84
 ## explicit; go 1.18
 github.com/diamondburned/ningen/v3
 github.com/diamondburned/ningen/v3/discordmd
@@ -143,29 +143,29 @@ github.com/diamondburned/ningen/v3/states/read
 github.com/diamondburned/ningen/v3/states/relationship
 github.com/diamondburned/ningen/v3/states/summary
 github.com/diamondburned/ningen/v3/states/thread
-# github.com/dlclark/regexp2 v1.4.0
-## explicit
+# github.com/dlclark/regexp2 v1.11.0
+## explicit; go 1.13
 github.com/dlclark/regexp2
 github.com/dlclark/regexp2/syntax
-# github.com/dustin/go-humanize v1.0.0
-## explicit
+# github.com/dustin/go-humanize v1.0.1
+## explicit; go 1.16
 github.com/dustin/go-humanize
 # github.com/enescakir/emoji v1.0.0
 ## explicit; go 1.13
 github.com/enescakir/emoji
-# github.com/godbus/dbus/v5 v5.0.6
+# github.com/godbus/dbus/v5 v5.1.0
 ## explicit; go 1.12
 github.com/godbus/dbus/v5
-# github.com/gorilla/schema v1.2.0
-## explicit
+# github.com/gorilla/schema v1.3.0
+## explicit; go 1.20
 github.com/gorilla/schema
-# github.com/gorilla/websocket v1.4.2
-## explicit; go 1.12
+# github.com/gorilla/websocket v1.5.1
+## explicit; go 1.20
 github.com/gorilla/websocket
-# github.com/ianlancetaylor/cgosymbolizer v0.0.0-20220405231054-a1ae3e4bba26
+# github.com/ianlancetaylor/cgosymbolizer v0.0.0-20240326020559-581a3f7c677f
 ## explicit; go 1.12
 github.com/ianlancetaylor/cgosymbolizer
-# github.com/leonelquinteros/gotext v1.5.3-0.20230829162019-37f474cfb069
+# github.com/leonelquinteros/gotext v1.6.0
 ## explicit; go 1.13
 github.com/leonelquinteros/gotext
 github.com/leonelquinteros/gotext/plurals
@@ -178,17 +178,17 @@ github.com/mattn/go-isatty
 # github.com/pkg/errors v0.9.1
 ## explicit
 github.com/pkg/errors
-# github.com/sahilm/fuzzy v0.1.0
+# github.com/sahilm/fuzzy v0.1.1
 ## explicit
 github.com/sahilm/fuzzy
-# github.com/twmb/murmur3 v1.1.3
+# github.com/twmb/murmur3 v1.1.8
 ## explicit; go 1.11
 github.com/twmb/murmur3
-# github.com/yalue/merged_fs v1.2.3
+# github.com/yalue/merged_fs v1.3.0
 ## explicit; go 1.16
 github.com/yalue/merged_fs
-# github.com/yuin/goldmark v1.5.6
-## explicit; go 1.18
+# github.com/yuin/goldmark v1.7.1
+## explicit; go 1.19
 github.com/yuin/goldmark
 github.com/yuin/goldmark/ast
 github.com/yuin/goldmark/parser
@@ -196,41 +196,40 @@ github.com/yuin/goldmark/renderer
 github.com/yuin/goldmark/renderer/html
 github.com/yuin/goldmark/text
 github.com/yuin/goldmark/util
-# github.com/zalando/go-keyring v0.2.1
-## explicit; go 1.13
+# github.com/zalando/go-keyring v0.2.4
+## explicit; go 1.18
 github.com/zalando/go-keyring
 github.com/zalando/go-keyring/secret_service
-# go4.org v0.0.0-20200411211856-f5505b9728dd
+# go4.org v0.0.0-20230225012048-214862532bf5
 ## explicit; go 1.13
 go4.org/bytereplacer
 # go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 ## explicit; go 1.11
 go4.org/unsafe/assume-no-moving-gc
-# golang.org/x/crypto v0.17.0
+# golang.org/x/crypto v0.22.0
 ## explicit; go 1.18
 golang.org/x/crypto/pbkdf2
-# golang.org/x/image v0.0.0-20220902085622-e7cb96979f69
-## explicit; go 1.12
+# golang.org/x/image v0.15.0
+## explicit; go 1.18
 golang.org/x/image/riff
 golang.org/x/image/vp8
 golang.org/x/image/vp8l
 golang.org/x/image/webp
-# golang.org/x/sync v0.1.0
-## explicit
+# golang.org/x/net v0.24.0
+## explicit; go 1.18
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+# golang.org/x/sync v0.7.0
+## explicit; go 1.18
 golang.org/x/sync/semaphore
 golang.org/x/sync/singleflight
-# golang.org/x/sys v0.15.0
+# golang.org/x/sys v0.19.0
 ## explicit; go 1.18
 golang.org/x/sys/unix
-# golang.org/x/text v0.14.0
+golang.org/x/sys/windows
+# golang.org/x/time v0.5.0
 ## explicit; go 1.18
-golang.org/x/text/internal/language
-golang.org/x/text/internal/language/compact
-golang.org/x/text/internal/tag
-golang.org/x/text/language
-# golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
-## explicit
 golang.org/x/time/rate
-# libdb.so/ctxt v0.0.0-20240216055249-07a499f07b78
+# libdb.so/ctxt v0.0.0-20240229093153-2db38a5d3c12
 ## explicit; go 1.21.0
 libdb.so/ctxt

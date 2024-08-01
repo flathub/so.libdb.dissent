@@ -81,10 +81,10 @@ github.com/diamondburned/chatkit/md
 github.com/diamondburned/chatkit/md/block
 github.com/diamondburned/chatkit/md/hl
 github.com/diamondburned/chatkit/md/mdrender
-# github.com/diamondburned/gotk4-adwaita/pkg v0.0.0-20240107232253-5f283b5d35bc
+# github.com/diamondburned/gotk4-adwaita/pkg v0.0.0-20240712143708-824c3ce8a5f4
 ## explicit; go 1.18
 github.com/diamondburned/gotk4-adwaita/pkg/adw
-# github.com/diamondburned/gotk4/pkg v0.2.3-0.20240606221803-e395a91f5db3
+# github.com/diamondburned/gotk4/pkg v0.3.1-0.20240731063639-b9c04a888a70
 ## explicit; go 1.21.0
 github.com/diamondburned/gotk4/pkg/cairo
 github.com/diamondburned/gotk4/pkg/cairo/swizzle
@@ -106,7 +106,7 @@ github.com/diamondburned/gotk4/pkg/graphene
 github.com/diamondburned/gotk4/pkg/gsk/v4
 github.com/diamondburned/gotk4/pkg/gtk/v4
 github.com/diamondburned/gotk4/pkg/pango
-# github.com/diamondburned/gotkit v0.0.0-20240614110325-6aaca1acc990
+# github.com/diamondburned/gotkit v0.0.0-20240731134720-2bef6d0ec1b9
 ## explicit; go 1.21.0
 github.com/diamondburned/gotkit/app
 github.com/diamondburned/gotkit/app/locale
@@ -128,7 +128,7 @@ github.com/diamondburned/gotkit/gtkutil/textutil
 github.com/diamondburned/gotkit/utils/cachegc
 github.com/diamondburned/gotkit/utils/config
 github.com/diamondburned/gotkit/utils/osutil
-# github.com/diamondburned/ningen/v3 v3.0.1-0.20240527225532-96fcee660001
+# github.com/diamondburned/ningen/v3 v3.0.1-0.20240704093451-74ff82d4a145
 ## explicit; go 1.18
 github.com/diamondburned/ningen/v3
 github.com/diamondburned/ningen/v3/discordmd
@@ -156,7 +156,7 @@ github.com/enescakir/emoji
 # github.com/godbus/dbus/v5 v5.1.0
 ## explicit; go 1.12
 github.com/godbus/dbus/v5
-# github.com/gorilla/schema v1.3.0
+# github.com/gorilla/schema v1.4.1
 ## explicit; go 1.20
 github.com/gorilla/schema
 # github.com/gorilla/websocket v1.5.1
@@ -212,12 +212,6 @@ go4.org/unsafe/assume-no-moving-gc
 # golang.org/x/crypto v0.22.0
 ## explicit; go 1.18
 golang.org/x/crypto/pbkdf2
-# golang.org/x/image v0.15.0
-## explicit; go 1.18
-golang.org/x/image/riff
-golang.org/x/image/vp8
-golang.org/x/image/vp8l
-golang.org/x/image/webp
 # golang.org/x/net v0.24.0
 ## explicit; go 1.18
 golang.org/x/net/internal/socks
@@ -230,7 +224,7 @@ golang.org/x/sync/singleflight
 ## explicit; go 1.18
 golang.org/x/sys/unix
 golang.org/x/sys/windows
-# golang.org/x/text v0.15.0
+# golang.org/x/text v0.16.0
 ## explicit; go 1.18
 golang.org/x/text/unicode/rangetable
 # golang.org/x/time v0.5.0

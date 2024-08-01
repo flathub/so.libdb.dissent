@@ -1,6 +1,6 @@
 id: so.libdb.dissent
 runtime: org.gnome.Platform
-runtime-version: '46'
+runtime-version: "46"
 sdk: org.gnome.Sdk
 command: dissent
 
@@ -17,7 +17,7 @@ finish-args:
   - --talk-name=org.freedesktop.secrets
   - --talk-name=org.kde.kwalletd5
   - --talk-name=org.kde.StatusNotifierWatcher
-  - --filesystem=xdg-run/keyring  # TODO: Check if this is even needed
+  - --filesystem=xdg-run/keyring # TODO: Check if this is even needed
   - --device=dri
 
 modules:
@@ -36,11 +36,11 @@ modules:
       - install -Dm644 $FLATPAK_ID.metainfo.xml /app/share/metainfo/$FLATPAK_ID.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.25.tar.gz
-        sha256: 286b1b1409f55950ded8e02fdea4ef0f1a5d27f552c04ec70bd52fdfa7a94cee
+        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.26.tar.gz
+        sha256: e48d16d16b5829d2d94a0bec777ec0087e9a8fd3ac39355feae8965e22f62eae
 
       - type: file
-        url: https://raw.githubusercontent.com/diamondburned/dissent/eb1c6a9ef400db95810a23d08514c2ddd25ffe9a/so.libdb.dissent.metainfo.xml
-        sha256: 658aab1452d33c24763de9ba8f3c312a6c213a622f9e5fc02c875df3e8976c82
+        url: https://raw.githubusercontent.com/diamondburned/dissent/3502f601591c8f27aed08b043ff27a17865c38e4/so.libdb.dissent.metainfo.xml
+        sha256: 18ef55eab57a5b68b07cb0445e565797fded84808638d93ffae1e671545e615d
 
       - go.mod.yml

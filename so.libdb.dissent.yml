@@ -36,11 +36,11 @@ modules:
       - install -Dm644 $FLATPAK_ID.metainfo.xml /app/share/metainfo/$FLATPAK_ID.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.26.tar.gz
-        sha256: e48d16d16b5829d2d94a0bec777ec0087e9a8fd3ac39355feae8965e22f62eae
+        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.27.tar.gz
+        sha256: c2680b6722be898a7293ef67b99da611b15e104eadc0f2e412a92b7ad3db12c3
 
       - type: file
-        url: https://raw.githubusercontent.com/diamondburned/dissent/3502f601591c8f27aed08b043ff27a17865c38e4/so.libdb.dissent.metainfo.xml
-        sha256: 18ef55eab57a5b68b07cb0445e565797fded84808638d93ffae1e671545e615d
+        url: https://raw.githubusercontent.com/diamondburned/dissent/778f24402ccded7bf796aac9759b80c287b14286/so.libdb.dissent.metainfo.xml
+        sha256: 01cbb16479e3833836f36561c044c091bae4d230c06d7104c113377b922ea78c
 
       - go.mod.yml

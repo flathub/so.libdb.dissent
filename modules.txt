@@ -42,8 +42,8 @@ github.com/danieljoos/wincred
 # github.com/diamondburned/adaptive v0.0.2-0.20221227093656-fa139be203a8
 ## explicit; go 1.17
 github.com/diamondburned/adaptive
-# github.com/diamondburned/arikawa/v3 v3.3.6
-## explicit; go 1.16
+# github.com/diamondburned/arikawa/v3 v3.4.0
+## explicit; go 1.18
 github.com/diamondburned/arikawa/v3/api
 github.com/diamondburned/arikawa/v3/api/rate
 github.com/diamondburned/arikawa/v3/api/webhook
@@ -106,7 +106,7 @@ github.com/diamondburned/gotk4/pkg/graphene
 github.com/diamondburned/gotk4/pkg/gsk/v4
 github.com/diamondburned/gotk4/pkg/gtk/v4
 github.com/diamondburned/gotk4/pkg/pango
-# github.com/diamondburned/gotkit v0.0.0-20240803153835-b0d58ff2b308
+# github.com/diamondburned/gotkit v0.0.0-20240817140251-aa2fb5bc486d
 ## explicit; go 1.21.0
 github.com/diamondburned/gotkit/app
 github.com/diamondburned/gotkit/app/locale
@@ -128,7 +128,7 @@ github.com/diamondburned/gotkit/gtkutil/textutil
 github.com/diamondburned/gotkit/utils/cachegc
 github.com/diamondburned/gotkit/utils/config
 github.com/diamondburned/gotkit/utils/osutil
-# github.com/diamondburned/ningen/v3 v3.0.1-0.20240803153024-b1a39a908e52
+# github.com/diamondburned/ningen/v3 v3.0.1-0.20240808103805-f1a24c0da3d8
 ## explicit; go 1.18
 github.com/diamondburned/ningen/v3
 github.com/diamondburned/ningen/v3/discordmd
@@ -162,8 +162,8 @@ github.com/gofrs/flock
 # github.com/gorilla/schema v1.4.1
 ## explicit; go 1.20
 github.com/gorilla/schema
-# github.com/gorilla/websocket v1.5.1
-## explicit; go 1.20
+# github.com/gorilla/websocket v1.5.3
+## explicit; go 1.12
 github.com/gorilla/websocket
 # github.com/ianlancetaylor/cgosymbolizer v0.0.0-20240326020559-581a3f7c677f
 ## explicit; go 1.12
@@ -212,13 +212,9 @@ go4.org/bytereplacer
 # go4.org/unsafe/assume-no-moving-gc v0.0.0-20231121144256-b99613f794b6
 ## explicit; go 1.11
 go4.org/unsafe/assume-no-moving-gc
-# golang.org/x/crypto v0.22.0
-## explicit; go 1.18
+# golang.org/x/crypto v0.25.0
+## explicit; go 1.20
 golang.org/x/crypto/pbkdf2
-# golang.org/x/net v0.24.0
-## explicit; go 1.18
-golang.org/x/net/internal/socks
-golang.org/x/net/proxy
 # golang.org/x/sync v0.7.0
 ## explicit; go 1.18
 golang.org/x/sync/semaphore
@@ -230,7 +226,7 @@ golang.org/x/sys/windows
 # golang.org/x/text v0.16.0
 ## explicit; go 1.18
 golang.org/x/text/unicode/rangetable
-# golang.org/x/time v0.5.0
+# golang.org/x/time v0.6.0
 ## explicit; go 1.18
 golang.org/x/time/rate
 # libdb.so/ctxt v0.0.0-20240229093153-2db38a5d3c12
@@ -240,3 +236,9 @@ libdb.so/ctxt
 ## explicit; go 1.20
 libdb.so/go-emoji
 libdb.so/go-emoji/data
+# libdb.so/gotk4-sourceview/pkg v0.0.0-20240818070527-98263515a466
+## explicit; go 1.18
+libdb.so/gotk4-sourceview/pkg/gtksource/v5
+# libdb.so/gotk4-spelling/pkg v0.0.0-20240818082554-ee26db878626
+## explicit; go 1.21.0
+libdb.so/gotk4-spelling/pkg/spelling

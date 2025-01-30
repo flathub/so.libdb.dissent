@@ -106,7 +106,7 @@ github.com/diamondburned/gotk4/pkg/graphene
 github.com/diamondburned/gotk4/pkg/gsk/v4
 github.com/diamondburned/gotk4/pkg/gtk/v4
 github.com/diamondburned/gotk4/pkg/pango
-# github.com/diamondburned/gotkit v0.0.0-20240817140251-aa2fb5bc486d
+# github.com/diamondburned/gotkit v0.0.0-20241016202055-5751b5af7e5e
 ## explicit; go 1.21.0
 github.com/diamondburned/gotkit/app
 github.com/diamondburned/gotkit/app/locale
@@ -239,6 +239,6 @@ libdb.so/go-emoji/data
 # libdb.so/gotk4-sourceview/pkg v0.0.0-20240818070527-98263515a466
 ## explicit; go 1.18
 libdb.so/gotk4-sourceview/pkg/gtksource/v5
-# libdb.so/gotk4-spelling/pkg v0.0.0-20240818082554-ee26db878626
+# libdb.so/gotk4-spelling/pkg v0.0.0-20241128063647-a9edc40bddb0
 ## explicit; go 1.21.0
 libdb.so/gotk4-spelling/pkg/spelling

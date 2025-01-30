@@ -28,10 +28,10 @@
   type: archive
   url: https://proxy.golang.org/github.com/diamondburned/gotk4/pkg/@v/v0.3.1.zip
 - dest: vendor/github.com/diamondburned/gotkit
-  sha256: 3de7ed00ac9ffe53d29498d1c9668eb29568e93ae1711efabafc84cb112a9118
+  sha256: 67ace71e1777ac1e82c04177a549462986e2197ef9d122cc8063fae22dfa9037
   strip-components: 3
   type: archive
-  url: https://proxy.golang.org/github.com/diamondburned/gotkit/@v/v0.0.0-20240817140251-aa2fb5bc486d.zip
+  url: https://proxy.golang.org/github.com/diamondburned/gotkit/@v/v0.0.0-20241016202055-5751b5af7e5e.zip
 - dest: vendor/github.com/diamondburned/ningen/v3
   sha256: 8144dbe3b80730adb2b2aeb47e2be441efde8996e7c95a9bffae0bf6183b2d64
   strip-components: 4
@@ -78,10 +78,10 @@
   type: archive
   url: https://proxy.golang.org/libdb.so/gotk4-sourceview/pkg/@v/v0.0.0-20240818070527-98263515a466.zip
 - dest: vendor/libdb.so/gotk4-spelling/pkg
-  sha256: 44301f191bb7b13393c2e67ebc2c8f9af123fd1494805d0c4fad8184a3b11be2
+  sha256: cb260760a459bdcd0fb26f51c46fe90520f35d588d793d95993fe18b461a14c7
   strip-components: 3
   type: archive
-  url: https://proxy.golang.org/libdb.so/gotk4-spelling/pkg/@v/v0.0.0-20240818082554-ee26db878626.zip
+  url: https://proxy.golang.org/libdb.so/gotk4-spelling/pkg/@v/v0.0.0-20241128063647-a9edc40bddb0.zip
 - dest: vendor/github.com/KarpelesLab/weak
   sha256: 95beab3258f52af7133a707f6e6dc53f52e84dc7d81857b9022267146e3fdc0e
   strip-components: 3

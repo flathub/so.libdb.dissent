@@ -28,7 +28,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/GNOME/libspelling.git
-        tag: 0.4.6
+        tag: 0.4.8
 
   - name: dissent
     buildsystem: simple
@@ -45,11 +45,11 @@ modules:
       - install -Dm644 $FLATPAK_ID.metainfo.xml /app/share/metainfo/$FLATPAK_ID.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.32.tar.gz
-        sha256: 39bf16313640436c097a066623f51c50b0c2be9d13e1cb5fdceba34ebb1652a4
+        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.34.tar.gz
+        sha256: 54b437cd2ae63c32cf3fa71d4da327c32de949c68911685031c96752d89b2d1a
 
       - type: file
-        url: https://raw.githubusercontent.com/diamondburned/dissent/e7b64c8d25067b3d54d1070cdaff785c718c8894/so.libdb.dissent.metainfo.xml
-        sha256: 3b865b476989665c75a6b9475267d7f1720cde033b7405eb4a97b62f19a51543
+        url: https://raw.githubusercontent.com/diamondburned/dissent/4b1d58a89f1411b7acb8f6ca9240d87a54383efb/so.libdb.dissent.metainfo.xml
+        sha256: d361379a974fb12372079f16e6610c76e1a6bb308df8edc936a661cc464bd483
 
       - go.mod.yml

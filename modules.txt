@@ -42,7 +42,7 @@ github.com/danieljoos/wincred
 # github.com/diamondburned/adaptive v0.0.2-0.20221227093656-fa139be203a8
 ## explicit; go 1.17
 github.com/diamondburned/adaptive
-# github.com/diamondburned/arikawa/v3 v3.5.0
+# github.com/diamondburned/arikawa/v3 v3.5.1-0.20250703053218-19d9c3f2e011
 ## explicit; go 1.23
 github.com/diamondburned/arikawa/v3/api
 github.com/diamondburned/arikawa/v3/api/rate
@@ -81,11 +81,11 @@ github.com/diamondburned/chatkit/md
 github.com/diamondburned/chatkit/md/block
 github.com/diamondburned/chatkit/md/hl
 github.com/diamondburned/chatkit/md/mdrender
-# github.com/diamondburned/gotk4-adwaita/pkg v0.0.0-20250223021911-503726bcfce6
-## explicit; go 1.18
+# github.com/diamondburned/gotk4-adwaita/pkg v0.0.0-20250703085708-8e7f01e2c815
+## explicit; go 1.24.0
 github.com/diamondburned/gotk4-adwaita/pkg/adw
-# github.com/diamondburned/gotk4/pkg v0.3.1
-## explicit; go 1.21.0
+# github.com/diamondburned/gotk4/pkg v0.3.2-0.20250703063411-16654385f59a
+## explicit; go 1.24.0
 github.com/diamondburned/gotk4/pkg/cairo
 github.com/diamondburned/gotk4/pkg/cairo/swizzle
 github.com/diamondburned/gotk4/pkg/core/closure
@@ -128,7 +128,7 @@ github.com/diamondburned/gotkit/gtkutil/textutil
 github.com/diamondburned/gotkit/utils/cachegc
 github.com/diamondburned/gotkit/utils/config
 github.com/diamondburned/gotkit/utils/osutil
-# github.com/diamondburned/ningen/v3 v3.0.1-0.20240808103805-f1a24c0da3d8
+# github.com/diamondburned/ningen/v3 v3.0.1-0.20250703054403-e5dc4cf15e84
 ## explicit; go 1.18
 github.com/diamondburned/ningen/v3
 github.com/diamondburned/ningen/v3/discordmd

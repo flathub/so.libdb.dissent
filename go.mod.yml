@@ -8,35 +8,35 @@
   type: archive
   url: https://proxy.golang.org/github.com/diamondburned/adaptive/@v/v0.0.2-0.20221227093656-fa139be203a8.zip
 - dest: vendor/github.com/diamondburned/arikawa/v3
-  sha256: 687a9a7c37c8a6172d39e9f442a9d8d3482b8a5d367c4346246a3cea7a5232b2
+  sha256: 2e546a39469972663686adb16b957327e83ebe4aefa07d327c75dc0fdb1a3d60
   strip-components: 4
   type: archive
-  url: https://proxy.golang.org/github.com/diamondburned/arikawa/v3/@v/v3.5.0.zip
+  url: https://proxy.golang.org/github.com/diamondburned/arikawa/v3/@v/v3.5.1-0.20250703053218-19d9c3f2e011.zip
 - dest: vendor/github.com/diamondburned/chatkit
   sha256: ea09c09cb95356950cc2423d7224feb7351a8e220a0090ebc13f664f565b3fd1
   strip-components: 3
   type: archive
   url: https://proxy.golang.org/github.com/diamondburned/chatkit/@v/v0.0.0-20240614105536-5788b19145bc.zip
 - dest: vendor/github.com/diamondburned/gotk4-adwaita/pkg
-  sha256: 056e6a0bac70556f4783426bbfedb91f336f9a1178e4468e68ff8e7e2729c191
+  sha256: 17289af63e59eb08d38d5a6979daf1a584f284bd3e36a6791df108ef5a4264dc
   strip-components: 4
   type: archive
-  url: https://proxy.golang.org/github.com/diamondburned/gotk4-adwaita/pkg/@v/v0.0.0-20250223021911-503726bcfce6.zip
+  url: https://proxy.golang.org/github.com/diamondburned/gotk4-adwaita/pkg/@v/v0.0.0-20250703085708-8e7f01e2c815.zip
 - dest: vendor/github.com/diamondburned/gotk4/pkg
-  sha256: c9723192c5123d33d85cfbc39631f8246a76f767b44b36fb27f4366e7d8acdcd
+  sha256: 8280282c9f2076a2e4b6ef1016a1ac65bd8e926c3aa5fcd981957b2f2ac4a966
   strip-components: 4
   type: archive
-  url: https://proxy.golang.org/github.com/diamondburned/gotk4/pkg/@v/v0.3.1.zip
+  url: https://proxy.golang.org/github.com/diamondburned/gotk4/pkg/@v/v0.3.2-0.20250703063411-16654385f59a.zip
 - dest: vendor/github.com/diamondburned/gotkit
   sha256: b29309f509e9618387fcce5e2f3a6934f6fad5f85358855b2ad7f664f35ef6c6
   strip-components: 3
   type: archive
   url: https://proxy.golang.org/github.com/diamondburned/gotkit/@v/v0.0.0-20250223060613-69614d9e70a9.zip
 - dest: vendor/github.com/diamondburned/ningen/v3
-  sha256: 8144dbe3b80730adb2b2aeb47e2be441efde8996e7c95a9bffae0bf6183b2d64
+  sha256: 61ca4b8cc155da48ff499ff1b5ac5d3ef5a7e67f91c0ebb0aba823a5912f4395
   strip-components: 4
   type: archive
-  url: https://proxy.golang.org/github.com/diamondburned/ningen/v3/@v/v3.0.1-0.20240808103805-f1a24c0da3d8.zip
+  url: https://proxy.golang.org/github.com/diamondburned/ningen/v3/@v/v3.0.1-0.20250703054403-e5dc4cf15e84.zip
 - dest: vendor/github.com/dustin/go-humanize
   sha256: 319404ea84c8a4e2d3d83f30988b006e7dd04976de3e1a1a90484ad94679fa46
   strip-components: 3

@@ -8,10 +8,10 @@
   type: archive
   url: https://proxy.golang.org/github.com/diamondburned/adaptive/@v/v0.0.2-0.20221227093656-fa139be203a8.zip
 - dest: vendor/github.com/diamondburned/arikawa/v3
-  sha256: 2e546a39469972663686adb16b957327e83ebe4aefa07d327c75dc0fdb1a3d60
+  sha256: bbcc7dfd6c942d211a69b649b827ceb0a5d96df9ff408372a0935dd26dbcbca8
   strip-components: 4
   type: archive
-  url: https://proxy.golang.org/github.com/diamondburned/arikawa/v3/@v/v3.5.1-0.20250703053218-19d9c3f2e011.zip
+  url: https://proxy.golang.org/github.com/diamondburned/arikawa/v3/@v/v3.6.0.zip
 - dest: vendor/github.com/diamondburned/chatkit
   sha256: ea09c09cb95356950cc2423d7224feb7351a8e220a0090ebc13f664f565b3fd1
   strip-components: 3

@@ -28,8 +28,8 @@ modules:
     sources:
       - type: git
         url: https://gitlab.gnome.org/GNOME/libspelling.git
-        tag: 0.4.9
-        commit: e41e11d6ca6f5af987a46caa08036d5f0f629892
+        tag: 0.4.10
+        commit: 1facdde8e1c0fd72bed806f9a9be2fbec83af5f2
         x-checker-data:
           type: git
           tag-pattern: ^([\d.]+)$
@@ -49,8 +49,8 @@ modules:
       - install -Dm644 $FLATPAK_ID.metainfo.xml /app/share/metainfo/$FLATPAK_ID.metainfo.xml
     sources:
       - type: archive
-        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.37.tar.gz
-        sha256: b08ae331e5c69759eb7b9511908007fc3e9c7a28208bfa66ffbd84b6f335364a
+        url: https://github.com/diamondburned/dissent/archive/refs/tags/v0.0.41.tar.gz
+        sha256: d31559e994798b47b3cf1440db3565fa0cfff7a9b1c67e49470509569cb8963e
         x-checker-data:
           type: json
           url: https://api.github.com/repos/diamondburned/dissent/releases/latest
@@ -59,8 +59,8 @@ modules:
           is-main-source: true
 
       - type: file
-        url: https://raw.githubusercontent.com/diamondburned/dissent/3e4e73e0023a0f31854322e76460d4ea0bc01cbf/so.libdb.dissent.metainfo.xml
-        sha256: b738d3add01cf33d4cd579e995781a27582e7e1a54f32fa569c2f967d48aa534
+        url: https://raw.githubusercontent.com/diamondburned/dissent/ef13f6cd98d0d22bff3c519a32f85772773d2801/so.libdb.dissent.metainfo.xml
+        sha256: ec5762f0a010169c03f5e703ba72866ea761a1b997bccc4f17c78c5739c46f9f
         x-checker-data:
           # The metainfo in each release tag lacks that release's entry; upstream
           # adds it in a follow-up commit, so track the latest commit to this file.

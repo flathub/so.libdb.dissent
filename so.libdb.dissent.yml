@@ -30,9 +30,6 @@ modules:
         url: https://gitlab.gnome.org/GNOME/libspelling.git
         tag: 0.4.10
         commit: 1facdde8e1c0fd72bed806f9a9be2fbec83af5f2
-        x-checker-data:
-          type: git
-          tag-pattern: ^([\d.]+)$
 
   - name: dissent
     buildsystem: simple
